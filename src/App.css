@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.labels{
+ float: left;
+ margin-left:8em;
+ color:#000;
+ font-weight: 700;
+}
+input{
+  border: none;
+  border-radius: 10px;
+  width: 15em;
+  height: 2em;
+  padding: 10px;
+  outline: none;
+}
+.form-label{
+  float:left;
+}
